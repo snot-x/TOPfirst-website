@@ -1,0 +1,136 @@
+.top-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid red; /* Temporary border */
+    padding: 10px;
+    margin: 10px;
+}
+
+.top-container-links {
+    display: flex;
+    align-items: center;
+    border: 2px solid black; 
+
+}
+
+.top-link {
+    display: flex;
+    flex-direction: row;
+    gap: 20px; /* Adjust as needed for spacing between links */
+    border: 2px solid green; /* Temporary border */
+    padding: 10px;
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.awesome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+    padding: 10px;
+    gap: 50px;
+}
+
+.blurb-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    background-color: #e0e0e0; /* Light grey background for visibility */
+    padding: 20px; /* Add some padding */
+}
+
+.image-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px dashed green; /* Border for image-item to see its boundaries */
+}
+
+.top-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid red; /* Temporary border */
+    padding: 10px;
+    margin: 10px;
+}
+
+.top-container-links {
+    display: flex;
+    align-items: center;
+    border: 2px solid black; 
+
+}
+
+.top-link {
+    display: flex;
+    flex-direction: row;
+    gap: 20px; /* Adjust as needed for spacing between links */
+    border: 2px solid green; /* Temporary border */
+    padding: 10px;
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.awesome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+    padding: 10px;
+    gap: 50px;
+}
+
+.blurb-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    background-color: #e0e0e0; /* Light grey background for visibility */
+    padding: 20px; /* Add some padding */
+}
+
+.image-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px dashed green; /* Border for image-item to see its boundaries */
+}
+
+.image-item img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 2px solid blue;
+}
+
+.image-item p {
+    border: 1px solid red; /* Border for text to see its boundaries */
+}
+
+.image-item p {
+    border: 1px solid red; /* Border for text to see its boundaries */
+}
